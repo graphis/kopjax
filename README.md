@@ -1,4 +1,4 @@
-# Kopjax - Pjax jQuery ajax module for Kohana 3.1
+# Kopjax - Pjax jQuery ajax module for Kohana 3.1(.2)
 Simplistic [Kohana 3](https://github.com/kohana/kohana) module implementation of [defunkt jquery-pjax](https://github.com/defunkt/jquery-pjax)
 
 Pjax allows ajax loading of web page subparts while keeping browser url and history behaviour intact. 
