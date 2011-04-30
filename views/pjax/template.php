@@ -1,6 +1,6 @@
 <?php $mediabase = Route::url('media'); ?>
 
-<script type="text/javascript" src="<?php echo $mediabase ?>/pjax/js/jquery-1.4.2.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <script type="text/javascript" src="<?php echo $mediabase ?>/pjax/js/jquery.pjax.js"></script>
 
   <script type="text/javascript">
