@@ -1,1 +1,0 @@
-** Kopjax - Kohana 3 Pjax jQuery ajax module
