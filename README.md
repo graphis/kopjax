@@ -4,8 +4,7 @@ Simplistic [Kohana 3](https://github.com/kohana/kohana) module implementation of
 Pjax allows ajax loading of web page subparts while keeping browser url and history behaviour intact. 
 
 ## Usage
-Add the kopjax module to your Kohana 3.1(.2) installation
-Navigate to http://[yourkohanainstallation]/pjaxdemo
+Add the kopjax module to your Kohana 3.1(.2) installation. Navigate to http://[yourkohanainstallation]/pjaxdemo
 
 ## Info
 This module includes a version of jQuery as well as a media controller for loading of the js files. 
