@@ -2,6 +2,7 @@
 Simplistic [Kohana 3](https://github.com/kohana/kohana) module implementation of Chris Wanstrath's [defunkt jquery-pjax](https://github.com/defunkt/jquery-pjax)
 
 Pjax allows ajax loading of web page subparts while keeping browser url and history behaviour intact. 
+
 NOTE: Pjax relies on HTML5 browser history.pushState - [FF4+, Chrome9+ etc. - forget Internet Explorer!](http://caniuse.com/#search=pushstate)
 
 ## Usage
